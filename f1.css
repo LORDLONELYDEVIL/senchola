@@ -1,0 +1,57 @@
+<<<<<<< HEAD
+h1{
+    margin-left: 0px;
+    
+    text-align: center;
+   
+    border-style: double;
+    border-color: blanchedalmond;
+    border-left: 100%;
+}
+
+
+
+body{
+    
+    
+    background-image:url(cat.jpg);
+    background-size:cover;
+    text-shadow: 3px 3px 5px;
+    color:aqua
+    
+
+
+}
+.bd{
+    margin-left: 550px;
+    
+}
+=======
+h1{
+    margin-left: 0px;
+    
+    text-align: center;
+   
+    border-style: double;
+    border-color: blanchedalmond;
+    border-left: 100%;
+}
+
+
+
+body{
+    
+    
+    background-image:url(cat.jpg);
+    background-size:cover;
+    text-shadow: 3px 3px 5px;
+    color:aqua
+    
+
+
+}
+.bd{
+    margin-left: 550px;
+    
+}
+>>>>>>> 7944647f3d2a7dfa2ecb9ea5da6911631d8a4151
