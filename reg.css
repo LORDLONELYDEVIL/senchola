@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-family:Impact;
+    
+    color: black;
+    
+}
+body{
+    background-image: url("image_search_1660059352940.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#form{
+    width:410px ;
+    margin:16vh auto 0 auto;
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius:8px;
+}
+#form button{
+    background-color: rgb(47, 214, 47);
+    border-radius: 7px;
+    width: 100%;
+    
+    border: none;
+    color: white;
+    padding: 3px;
+    font-size: 21px;
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.input-group input{
+   
+    margin-top: 5px;
+    font-size: 20px;
+    padding:5px;
+    border: 1px solid green;
+}
+.input-group input:focus{
+    outline: 0;
+}
+.input-group .error{
+    color: red;
+    margin-top: 3px;
+    font-size: 15px;
+}
+.input-group.success input{
+    border-color: rgb(17, 250, 17);
+}
+.input-group.error input{
+    border-color: rgb(252, 4, 4);
+}
